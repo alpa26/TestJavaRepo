@@ -7,4 +7,9 @@ public class Feature {
     public String Comment12;
 
     public String Commen2t2;
+    public String Commwdwden2t2;
+    public String Commwden2t2;
+    public String Commwdwen2t2;
+
+
 }
