@@ -10,6 +10,7 @@ public class Feature {
     public String Commwdwden2t2;
     public String Commwden2t2;
     public String Commwdwen2t2;
+    public String Commwdwen2t2;
 
 
 }
