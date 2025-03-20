@@ -7,8 +7,10 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
-        System.out.printf("Это изменения для фьютуре ветки!");
+        System.out.printf("Это измцвцфцввц!");
+        System.out.printf("Это измцвцфцввц!");
         System.out.printf("For Test commit");
+        System.out.printf("жщфцлвфцорвшфцщдв");
         System.out.printf("Comment for commit 2 on branch 2");
 
 
